@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\bin\Debug\net9.0\TicketCalculator.exe
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\bin\Debug\net9.0\TicketCalculator.deps.json
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\bin\Debug\net9.0\TicketCalculator.runtimeconfig.json
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\bin\Debug\net9.0\TicketCalculator.dll
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\bin\Debug\net9.0\TicketCalculator.pdb
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.AssemblyInfo.cs
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.sourcelink.json
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.dll
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\refint\TicketCalculator.dll
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.pdb
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\TicketCalculator.genruntimeconfig.cache
+C:\Users\USER\Desktop\dcit318-assignment1-11194085\TicketCalculator\obj\Debug\net9.0\ref\TicketCalculator.dll
